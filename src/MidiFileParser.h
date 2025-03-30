@@ -12,6 +12,8 @@
  */
 #pragma once
 
+#include <Arduino.h>
+
 #include "MidiFileParserState.h"
 #include <math.h>
 #include <stdio.h>
